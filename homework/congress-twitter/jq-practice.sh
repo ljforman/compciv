@@ -21,13 +21,13 @@ echo '7.'
 cat data-hold/legislators-current.json | jq --raw-output '.[] .terms[0] .start' | sort | cut -d '-' -f 1 | grep -c '2015'
 
 echo '8.'
-cat data-hold/legislators-current.json |   jq --raw-output '.[] .terms[0] .start' | sort | head -n 1
+cat data-hold/legislators-current.json |   jq --raw-output '.[] .terms[0] .start' | sort | head -n 1 | grep -o '[[:digit:]][[:digit:]][[:digit:]][[:digit:]]'
 
 echo '9.'
 cat data-hold/legislators-current.json | jq --raw-output '.[] .terms[-1:][0].party' | grep -c 'Republican'
 
 echo '10.'
-cat data-hold/legislators-current.json | jq --raw-output '.[] .terms[-1:][0].party' | sort -n | uniq -c | sort -n | head -n 1
+cat data-hold/legislators-current.json | jq --raw-output '.[] .terms[-1:][0].party' | sort -n | uniq -c | sort -n | head -n 1 | grep -o [[:digit:]]
 
 echo '11.'
 cat data-hold/legislators-current.json | jq --raw-output '.[] .terms[] .rss_url' | grep -v 'null' | sort | uniq | head -n 10
