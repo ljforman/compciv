@@ -1,0 +1,7 @@
+username=$1
+t timeline -n 3200 --csv $username > data-hold/$username
+
+count=$(csvfix order -f 1 $file | wc -l)
+lastdate=$(csvfix order -fn 'Posted at' $file | tail -n 1)
+echo "Fetching tweets for $username into ./data-hold/$username"
+echo "Analyzing $count tweets by $1 since $lastdate"
