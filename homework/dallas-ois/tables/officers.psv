@@ -1,0 +1,202 @@
+case_number|date|suspect_killed|suspect_weapon|last_name|first_name|race|gender
+28021M|1/11/2003|FALSE|Handgun|Fiero|Ernest|L|M
+40286M|1/17/2003|FALSE|Handgun|Cozby|Melvin|W|M
+190589M|3/18/2003|FALSE|Shotgun|Guynn|Byron|W|M
+291215M|4/23/2003|FALSE|Knife|White|Phillip NA|A|M
+368360M|5/9/2003|FALSE|Handgun|Thompson|Dwayne|B|M
+403476M|6/1/2003|FALSE|Handgun|Yanez|Tami|W|F
+411133M|6/3/2003|FALSE|Shotgun|Fry|Brian|W|M
+517454M|7/9/2003|FALSE|Handgun|Gurski|James|L|M
+559487M|7/24/2003|FALSE|Handgun|Armendariz|Michael |L|M
+571462M|7/28/2003|FALSE|Handgun|Evans|Derrick|B|M
+628987M|8/18/2003|FALSE|Vehicle|Nichols|John|W|M
+651226M|8/27/2003|FALSE|Unarmed|Roberts|John|W|M
+795295M|10/18/2003|FALSE|Rifle|Chambers|Stanton|B|M
+804107M|10/21/2003|FALSE|Shotgun|Eggleston|Scott|W|M
+816576M|10/26/2003|FALSE|Vehicle|Carballo|Rolando|L|M
+828847M|10/30/2003|FALSE|Knife|Gaitonde|Nekheel|A|M
+826658M|10/30/2003|FALSE|Vehicle|Clark|David Jr.|W|M
+862009M|11/12/2003|FALSE|Shotgun|Evenden|George |W|M
+884709M|11/20/2003|FALSE|Handgun|Martin|Roger|W|M
+8025N|1/3/2004|FALSE|Knife|Huel|Tammy|B|F
+125274N|2/20/2004|FALSE|Vehicle|Perez|Fernando|L|M
+159747N|3/5/2004|FALSE|Unarmed|Aguinaga|Juan|L|M
+167208N|3/7/2004|FALSE|Vehicle|Pennie|Demetrick|B|M
+226455N|3/24/2004|FALSE|BB Rifle|Dagen|John|W|M
+221021N|3/27/2004|FALSE|Handgun|Lewis|Sharlet|B|F
+280895N|4/18/2004|FALSE|Handgun|Owens|James|W|M
+281418N|Deceased|FALSE|null|Jablon|James|W|M
+401819N|5/30/2004|FALSE|Hands|Benson|Ralph|W|M
+469671N|6/22/2004|FALSE|Vehicle|McCormick|James|W|M
+523445N|7/10/2004|FALSE|Handgun|Kattner|David|W|M
+570858N|7/26/2004|FALSE|Vehicle|Hawkins|Joe|W|M
+702591N|9/11/2004|FALSE|Handgun|Loeb|Jeffrey|W|M
+772767N|10/6/2004|FALSE|Handgun|Price|Lawrence|B|M
+989995N|12/24/2004|FALSE|Hands|Cordero|Daniel|L|M
+1004453N|12/29/2004|FALSE|Vehicle|Nguyen|Buu|A|M
+141404P|2/23/2005|FALSE|Handgun|White|Phillip NA|A|M
+227824P|3/25/2005|FALSE|Handgun|Roberts|John|W|M
+363184P|5/9/2005|FALSE|Vehicle|Culp|Barrick|B|M
+667539P|8/19/2005|FALSE|Handgun|Griffin|Sam|W|M
+902413P|11/10/2005|FALSE|Unarmed|Hernandez|Anthony|L|M
+910563P|11/13/2005|FALSE|Handgun|Jackson|Brian|W|M
+963516P|12/4/2005|FALSE|Handgun|Rickerman|Mark|W|M
+986476P|12/13/2005|FALSE|Handgun|Ashley|Larry|W|M
+997316P|12/18/2005|FALSE|Handgun|Jefferson|Chad|B|M
+1016667P|12/25/2005|FALSE|Shotgun|Cole|Bobby|B|M
+1066R|1/1/2006|FALSE|Knife|Tahbone|Jacqueline NA|A|F
+106454R|2/11/2006|FALSE|Toy Gun|Jaquez|Christopher|L|M
+118251R|2/16/2006|FALSE|Handgun|Perez|Adolfo|L|M
+145131R|2/27/2006|FALSE|Unarmed|Green|Michael|B|M
+161582R|3/5/2006|FALSE|Vehicle|Tena|Edward|L|M
+244659R|4/3/2006|FALSE|Hands|Armstrong|Michael|W|M
+318713R|4/29/2006|FALSE|Handgun|Wash|Shawn|B|M
+345748R|5/9/2006|FALSE|Handgun|Lopez|Antonio|L|M
+398617R|5/27/2006|FALSE|Unarmed|Tayem|Michael|L|M
+715712R|9/19/2006|FALSE|Unarmed|Gaitonde|Nekheel|A|M
+738862R|9/29/2006|FALSE|Handgun|Bishop|Fredrick|B|M
+842907R|11/7/2006|FALSE|Paint Ball Rifle|St. Clair |Stephen|W|M
+871096R|11/18/2006|FALSE|Handgun|Woody|Mark|L|M
+871610R|11/18/2006|FALSE|Handgun|Lockett|Clarence|B|M
+884861R|11/24/2006|FALSE|Handgun|Daigrepont|Kevin|W|M
+62315T|1/27/2007|FALSE|Hands|Dominguez|Michael|L|M
+100577T|2/12/2007|FALSE|Handgun|Ragsdale|Barry|W|M
+201198T|3/22/2007|FALSE|Unarmed|Rivera|Martin|L|M
+203348T|3/23/2007|FALSE|Rifle|Borchardt|Jeremy|W|M
+355952T|5/16/2007|FALSE|Handgun|Christian|Artie|B|M
+374556T|5/22/2007|FALSE|Vehicle|Welch|Michael|W|M
+384832T|5/26/2007|FALSE|Unarmed|Mondy|Michael|B|M
+396556T|5/30/2007|FALSE|Unarmed|Salas|Juan|L|M
+445728T|6/15/2007|FALSE|Vehicle|Brasher|Cody|W|M
+456826T|6/20/2007|FALSE|Handgun|Emberlin|Richard|W|M
+507756T|7/7/2007|FALSE|Vehicle|Madison|John|W|M
+588432T|8/6/2007|FALSE|Unarmed|Grimes|Jordan|W|M
+605484T|8/12/2007|FALSE|Shotgun|Poston|Jerry|W|M
+636873T|8/27/2007|FALSE|Vehicle|Cortes|Andrew|L|M
+665855T|9/22/2007|FALSE|Unarmed|Dominguez|Ray|L|M
+670242T|9/27/2007|FALSE|Handgun|Contreras|Juan|L|M
+12762V|1/12/2008|FALSE|Unarmed|McLain|Matthew|W|M
+94073V|3/31/2008|FALSE|Handgun|Byas|James|L|M
+113038V|4/18/2008|FALSE|Handgun|Oliveros|Eduardo|L|M
+139031V|5/11/2008|FALSE|Unarmed|Pasley|Chris|W|M
+160390V|5/30/2008|FALSE|Toy Rifle|Villareal|Mark|W|M
+167911V|6/6/2008|FALSE|Box Cutter|Yzaguirre|David|L|M
+184283V|6/21/2008|FALSE|BB Rifle|Sanchez|Ray|L|M
+203505V|6/27/2008|FALSE|Handgun|Coleman|Alph|B|M
+213806V|7/9/2008|FALSE|Handgun|Jenkins|Jocelyn|B|F
+223423V|7/18/2008|FALSE|Handgun|Gonzalez|Margarito|L|M
+249259V|8/12/2008|FALSE|Handgun|Terry|Matthew|W|M
+266084V|8/27/2008|FALSE|Handgun|Chapman|Nathaniel|W|M
+277548V|9/8/2008|FALSE|Assault Rifle|Carter|Ira|B|M
+290212V|9/16/2008|FALSE|Hands|Villanueva|Rene|L|M
+372172V|12/7/2008|FALSE|Vehicle|Rutledge|Gregory|B|M
+379145V|12/14/2008|FALSE|Handgun|Seng|Kung|A|M
+5804W|1/6/2009|FALSE|Handgun|Redden|Craig|W|M
+74700W|3/17/2009|FALSE|Handgun|Bowen|Justin|W|M
+86771W|3/29/2009|FALSE|Handgun|Helm|Zachary|W|M
+131613W|5/8/2009|FALSE|Vehicle|Payne|Brian|W|M
+132383W|5/9/2009|FALSE|Vehicle|Moreno|Rogelio|L|M
+148546W|5/24/2009|FALSE|Handgun|Sigler|Clinton |W|M
+282646W|9/21/2009|FALSE|Shotgun|Mumford|Dennis|B|M
+287112W|9/26/2009|FALSE|OC Spray|Matt Barnes W|att Barnes|W|M
+288718W|9/27/2009|FALSE|Unarmed|Ford|Paul|A|M
+286923W|10/8/2009|FALSE|Handgun|Eduardo Oliveros L|duardo Oliveros|L|M
+309130W|10/17/2009|FALSE|Handgun|Sharkey|Jonathan|L|M
+349201W|11/24/2009|FALSE|Unarmed|Hodack|Steven|W|M
+371544W|12/18/2009|FALSE|Hands|Crowley|David|W|M
+373521W|12/20/2009|FALSE|Hands|Rebecca Barrios L|ebecca Barrios|L|F
+380792W|12/27/2009|FALSE|Handgun|Krol|Michael|W|M
+34227X|2/5/2010|FALSE|Handgun|Deleon|Christopher|L|M
+36033X|2/7/2010|FALSE|Vehicle|Melo|Richard|L|M
+64249X|3/8/2010|FALSE|Handgun|Grabbe|John|W|M
+66386X|3/10/2010|FALSE|Assault Rifle|Villanueva|Rene|L|M
+70285X|3/14/2010|FALSE|Hands|Dickerson|Terran|B|M
+78756X|3/22/2010|FALSE|Taser|Payovich|Timothy|W|M
+115951X|4/27/2010|FALSE|Vehicle|Espinosa|Daniel|L|M
+121982X|5/3/2010|FALSE|Handgun|Padilla|Gilbert|L|M
+167104X|6/15/2010|FALSE|Rifle|Pacheco|Louis|L|M
+181380X|6/28/2010|FALSE|Unarmed|Thayer|Adam|W|M
+199351X|7/16/2010|FALSE|Handgun|Thomas|Christopher|B|M
+300693X|10/29/2010|FALSE|Unarmed|Tate |Matthew|W|M
+308344X|11/7/2010|FALSE|Simulated Handgun|Harmon|Daryell|W|M
+316668X|11/16/2010|FALSE|Pellet Gun|Curtis|Guy|W|M
+327705X|11/28/2010|FALSE|Assault Rifle|Rangel|Juan|L|M
+344699X|12/17/2010|FALSE|Handgun|Colunga|Jordan|L|M
+349419X|12/22/2010|FALSE|Hands|Haulbrook|Danny|W|M
+73571Y|3/24/2011|FALSE|Handgun|Offutt|Philip|W|M
+117903Y|5/8/2011|FALSE|Unarmed|Mosher|Michael|W|M
+165748Y|6/24/2011|FALSE|Vehicle|Dillard|Joseph|W|M
+192694Y|7/22/2011|FALSE|Unarmed|Hayden|Kevin|B|M
+259768Y|10/1/2011|FALSE|Handgun|Walls|Germaine|B|M
+296242Y|11/9/2011|FALSE|Handgun|Hughes|Thomas|W|M
+302639Y|11/16/2011|FALSE|Unarmed|Pacheco|Louis|L|M
+313491Y|11/30/2011|FALSE|Handgun|Johnson|Michael|B|M
+318272Y|12/5/2011|FALSE|Handgun|Cox|Jason|W|M
+322771Y|12/10/2011|FALSE|Knife|Cotty|Andrea|W|F
+336939Y|12/27/2011|FALSE|Handgun|Ceraso|Gregory|W|M
+337026Y|12/28/2011|FALSE|Unarmed|Magiera|Stormy|W|F
+27843Z|2/2/2012|FALSE|Handgun|Hughes|Thomas|W|M
+27878Z|2/2/2012|FALSE|Unarmed|Bunthavuth|Te|A|M
+36192Z|2/13/2012|FALSE|Handgun|Canete|Daniel|A|M
+45802Z|2/24/2012|FALSE|Handgun|McDonnold|Samuel|W|M
+56177Z|3/7/2012|FALSE|Vehicle|Crow|Jason|W|M
+62683Z|3/15/2012|FALSE|Unarmed|Nelson|Saint|W|M
+125333Z|5/22/2012|FALSE|Handgun|Banes|Matthew|W|M
+128833Z|5/26/2012|FALSE|Vehicle|Edwards|Marilyn|B|F
+129379Z|5/26/2012|FALSE|Vehicle|Todd|James|W|M
+130254Z|5/27/2012|FALSE|Handgun|Adams|Joseph|W|M
+132104Z|5/29/2012|FALSE|Vehicle|St. Clair|James Jr.|B|M
+132098Z|5/29/2012|FALSE|Vehicle|Dayton|Scott|W|M
+135680Z|6/2/2012|FALSE|Handgun|Limbaugh|Leland|L|M
+155523Z|6/24/2012|FALSE|Handgun|Howard|Cortenay|B|M
+174404Z|7/15/2012|FALSE|Handgun|Vanderslice|Christopher|W|M
+183313Z|7/24/2012|FALSE|Unarmed|Rowden|Brian|W|M
+191609Z|8/3/2012|FALSE|Handgun|Hubert|Kyle|W|M
+194377Z|8/6/2012|FALSE|Vehicle|Waskom|David|W|M
+267651Z|10/27/2012|FALSE|Unarmed|Shipp|Joshua|W|M
+268942Z|10/28/2012|FALSE|Handgun|Khan|Arif|A|M
+291975Z|11/25/2012|FALSE|Unarmed|Ledezma|Bernadino|L|M
+302115Z|12/6/2012|FALSE|Shotgun|Gomez|Antonio|L|M
+308643Z|12/14/2012|FALSE|Handgun|Foster|Daniel|W|M
+912B|1/2/2014|FALSE|Handgun|Evangelista|Derreck|W|M
+37894B|2/15/2014|FALSE|Handgun|Varillas|Salvador|L|M
+40931B|2/19/2014|FALSE|Handgun|Casey|John|W|M
+79223B|4/4/2014|FALSE|Knife|Moore|Jacqueline|W|F
+94757B|4/21/2014|FALSE|Handgun|Huante|Gerardo|L|M
+125236B|5/24/2014|FALSE|Handgun|Bryant|Derek|B|M
+143229‐2014|6/14/2014|FALSE|Vehicle|Mondy|Michael|B|M
+143473‐2014|6/14/2014|FALSE|Screwdriver|Hutchins|Andrew|W|M
+154184‐2014|6/26/2014|FALSE|Handgun|Sansom|Dameon|B|M
+166059‐2014|7/10/2014|FALSE|Handgun|Arrivillaga|Daniel|L|M
+192024‐2014|8/10/2014|FALSE|Unarmed|Hudson|Antonio|L|M
+192550‐2014|8/11/2014|FALSE|Knife|Gladden|Kevin|W|M
+200830‐2014|8/20/2014|FALSE|Handgun|Herczeg|Michelle|W|F
+201507‐2014|8/21/2014|FALSE|Handgun|Martinez|Ruben Jr.|L|M
+204701‐2014|8/25/2014|FALSE|Handgun|Moreno|Rogelio|L|M
+206124‐2014|8/27/2014|FALSE|Handgun|Gamez|Jose|L|M
+216145‐2014|9/7/2014|FALSE|Vehicle|DeWilde|Michael|W|M
+236112‐2014|10/1/2014|FALSE|Airsoft Handgun|Walls|Ryan|W|M
+254101‐2014|10/22/2014|FALSE|Unarmed|Johnson|Michael|B|M
+298185-2014|12/16/2014|FALSE|Knife|Moody|Larry|B|M
+2315A|1/3/2013|FALSE|Vehicle|Phelps|Farie|B|M
+5567A|1/7/2013|FALSE|Handgun|Banes|Matthew|W|M
+32587A|2/8/2013|FALSE|Shotgun|McCluskey|William|W|M
+44523A|2/23/2013|FALSE|Handgun|Fillingim|Brian|W|M
+56628A|3/10/2013|FALSE|Hands|Staller|Clark|W|M
+60045A|3/14/2013|FALSE|Handgun|Timms|Christopher|B|M
+60944A|3/15/2013|FALSE|BB Gun|Tholl|Kyle|W|M
+84022A|4/6/2013|FALSE|Vehicle|Ramirez|Ricardo|L|M
+92218A|4/15/2013|FALSE|Handgun|Giron|Jason|W|M
+136044A|5/31/2013|FALSE|Handgun|Gadomski|Brendan|W|M
+154621A|6/19/2013|FALSE|Handgun|Freeman|Eric|W|M
+161783A|6/26/2013|FALSE|Knife|Salazar|Samantha|L|F
+182199A|7/17/2013|FALSE|Unarmed|Robinson|Jamal|B|M
+194631A|7/31/2013|FALSE|Handgun|Bailey|Berkeley|W|M
+229702A|9/6/2013|FALSE|Handgun|Merta|Matthew|W|M
+236584A|9/14/2013|FALSE|Handgun|Barrett|Russell|W|M
+248051A|9/26/2013|FALSE|Handgun|McDaniel|Julian|B|M
+253345A|10/2/2013|FALSE|Handgun|Aquino|Jesse|L|M
+260599A|10/11/2013|FALSE|Unarmed|Simonds|Brian|B|M
+263673A|10/14/2013|FALSE|Knife|Spencer|Cardan|B|M
+280218A|11/1/2013|FALSE|Taser|Ross|John|B|M
+311475A|12/9/2013|FALSE|Unarmed|Wilburn|Amy|W|F

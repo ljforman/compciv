@@ -1,0 +1,202 @@
+case_number|date|suspect_weapon|last_name|first_name
+28021M|1/11/2003|Handgun|Fiero|Ernest
+40286M|1/17/2003|Handgun|Cozby|Melvin
+190589M|3/18/2003|Shotgun|Guynn|Byron
+291215M|4/23/2003|Knife|White|Phillip NA
+368360M|5/9/2003|Handgun|Thompson|Dwayne
+403476M|6/1/2003|Handgun|Carballo|Rolando Jr.
+411133M|6/3/2003|Shotgun|Verbal|Stan
+517454M|7/9/2003|Handgun|Gurski|James
+559487M|7/24/2003|Handgun|Rangel|Mark 
+571462M|7/28/2003|Handgun|Evans|Derrick
+628987M|8/18/2003|Vehicle|Nichols|John
+651226M|8/27/2003|Unarmed|Roberts|John
+795295M|10/18/2003|Rifle|Chambers|Stanton
+804107M|10/21/2003|Shotgun|Crawford|Lance
+816576M|10/26/2003|Vehicle|Carballo|Rolando
+828847M|10/30/2003|Knife|Gaitonde|Nekheel
+826658M|10/30/2003|Vehicle|Cantu|Oscar
+862009M|11/12/2003|Shotgun|Brady|Douglas
+884709M|11/20/2003|Handgun|Martin|Roger
+8025N|1/3/2004|Knife|Johnson|Gregory
+125274N|2/20/2004|Vehicle|Perez|Fernando
+159747N|3/5/2004|Unarmed|Aguinaga|Juan
+167208N|3/7/2004|Vehicle|Bridges|Christopher
+226455N|3/24/2004|BB Rifle|M|
+221021N|3/27/2004|Handgun|Lewis|Jeffrey
+280895N|4/18/2004|Handgun|Jablon|James
+281418N|Deceased|null|Jablon|James
+401819N|5/30/2004|Hands|Benson|Ralph
+469671N|6/22/2004|Vehicle|McCormick|James
+523445N|7/10/2004|Handgun|Kattner|David
+570858N|7/26/2004|Vehicle|Hawkins|Joe
+702591N|9/11/2004|Handgun|Loeb|Jeffrey
+772767N|10/6/2004|Handgun|Price|Lawrence
+989995N|12/24/2004|Hands|Cordero|Daniel
+1004453N|12/29/2004|Vehicle|Nguyen|Buu
+141404P|2/23/2005|Handgun|White|Phillip NA
+227824P|3/25/2005|Handgun|Roberts|John
+363184P|5/9/2005|Vehicle|Woods|Jesse
+667539P|8/19/2005|Handgun|Griffin|Sam
+902413P|11/10/2005|Unarmed|Hernandez|Anthony
+910563P|11/13/2005|Handgun|Jackson|Brian
+963516P|12/4/2005|Handgun|Rickerman|Mark
+986476P|12/13/2005|Handgun|Ashley|Larry
+997316P|12/18/2005|Handgun|Jefferson|Chad
+1016667P|12/25/2005|Shotgun|Cole|Bobby
+1066R|1/1/2006|Knife|Tahbone|Jacqueline NA
+106454R|2/11/2006|Toy Gun|Jaquez|Christopher
+118251R|2/16/2006|Handgun|Wilkins|Kenneth
+145131R|2/27/2006|Unarmed|Green|Michael
+161582R|3/5/2006|Vehicle|Tena|Edward
+244659R|4/3/2006|Hands|Armstrong|Michael
+318713R|4/29/2006|Handgun|Wash|Shawn
+345748R|5/9/2006|Handgun|Lopez|Antonio
+398617R|5/27/2006|Unarmed|Tayem|Michael
+715712R|9/19/2006|Unarmed|Gaitonde|Nekheel
+738862R|9/29/2006|Handgun|Harris|Mark
+842907R|11/7/2006|Paint Ball Rifle|St. Clair |Stephen
+871096R|11/18/2006|Handgun|Woody|Mark
+871610R|11/18/2006|Handgun|Nelson|Barrett
+884861R|11/24/2006|Handgun|Daigrepont|Kevin
+62315T|1/27/2007|Hands|Dominguez|Michael
+100577T|2/12/2007|Handgun|Ragsdale|Barry
+201198T|3/22/2007|Unarmed|Rivera|Martin
+203348T|3/23/2007|Rifle|Starr|Patrick
+355952T|5/16/2007|Handgun|Melgoza|Greald
+374556T|5/22/2007|Vehicle|Welch|Michael
+384832T|5/26/2007|Unarmed||
+396556T|5/30/2007|Unarmed|Salas|Juan
+445728T|6/15/2007|Vehicle|Richardson|Dale
+456826T|6/20/2007|Handgun|Emberlin|Richard
+507756T|7/7/2007|Vehicle|Madison|John
+588432T|8/6/2007|Unarmed|Grimes|Jordan
+605484T|8/12/2007|Shotgun|Poston|Jerry
+636873T|8/27/2007|Vehicle|Cortes|Andrew
+665855T|9/22/2007|Unarmed|Dominguez|Ray
+670242T|9/27/2007|Handgun|Contreras|Juan
+12762V|1/12/2008|Unarmed|McLain|Matthew
+94073V|3/31/2008|Handgun|Bailey|Pete
+113038V|4/18/2008|Handgun|Oliveros|Eduardo
+139031V|5/11/2008|Unarmed|Rigney|John
+160390V|5/30/2008|Toy Rifle|Houston|Tim
+167911V|6/6/2008|Box Cutter|Yzaguirre|David
+184283V|6/21/2008|BB Rifle|Eaton|Dan
+203505V|6/27/2008|Handgun|Coleman|Alph
+213806V|7/9/2008|Handgun|Cole|Daniel
+223423V|7/18/2008|Handgun|White|Jacob
+249259V|8/12/2008|Handgun|Mosher|Daniel
+266084V|8/27/2008|Handgun|Walker|James
+277548V|9/8/2008|Assault Rifle|Carter|Ira
+290212V|9/16/2008|Hands|Villanueva|Rene
+372172V|12/7/2008|Vehicle|Rutledge|Gregory
+379145V|12/14/2008|Handgun|Seng|Kung
+5804W|1/6/2009|Handgun|Gomez|Mario
+74700W|3/17/2009|Handgun|Bowen|Justin
+86771W|3/29/2009|Handgun|Hess|Christopher
+131613W|5/8/2009|Vehicle|Payne|Brian
+132383W|5/9/2009|Vehicle|Moreno|Rogelio
+148546W|5/24/2009|Handgun|Davis|Rashad
+282646W|9/21/2009|Shotgun|Marvin|Ned
+287112W|9/26/2009|OC Spray|Matt Barnes W|att Barnes
+288718W|9/27/2009|Unarmed|Ford|Paul
+286923W|10/8/2009|Handgun|Eduardo Oliveros L|duardo Oliveros
+309130W|10/17/2009|Handgun|Ferguson|Kesha
+349201W|11/24/2009|Unarmed|Hodack|Steven
+371544W|12/18/2009|Hands|Crowley|David
+373521W|12/20/2009|Hands|Rebecca Barrios L|ebecca Barrios
+380792W|12/27/2009|Handgun|Lashley|Brian
+34227X|2/5/2010|Handgun|Deleon|Christopher
+36033X|2/7/2010|Vehicle|Martinez|Albert
+64249X|3/8/2010|Handgun|Grabbe|John
+66386X|3/10/2010|Assault Rifle|Wilson|Jonathan
+70285X|3/14/2010|Hands|Dickerson|Terran
+78756X|3/22/2010|Taser|Boudet|Otoniel
+115951X|4/27/2010|Vehicle|Espinosa|Daniel
+121982X|5/3/2010|Handgun|Padilla|Gilbert
+167104X|6/15/2010|Rifle|Pacheco|Louis
+181380X|6/28/2010|Unarmed|Thayer|Adam
+199351X|7/16/2010|Handgun|Thomas|Christopher
+300693X|10/29/2010|Unarmed|Tate |Matthew
+308344X|11/7/2010|Simulated Handgun|McCarrick|Ryan
+316668X|11/16/2010|Pellet Gun|Felini|Michael
+327705X|11/28/2010|Assault Rifle|Rangel|Juan
+344699X|12/17/2010|Handgun|Colunga|Jordan
+349419X|12/22/2010|Hands|Haulbrook|Danny
+73571Y|3/24/2011|Handgun|Christian|Lawrence 
+117903Y|5/8/2011|Unarmed|Mosher|Michael
+165748Y|6/24/2011|Vehicle|Silvia|Katherine
+192694Y|7/22/2011|Unarmed|Hayden|Kevin
+259768Y|10/1/2011|Handgun|Walls|Germaine
+296242Y|11/9/2011|Handgun|Hughes|Thomas
+302639Y|11/16/2011|Unarmed|Pacheco|Louis
+313491Y|11/30/2011|Handgun|Johnson|Michael
+318272Y|12/5/2011|Handgun|Martinez|Jesus
+322771Y|12/10/2011|Knife|Zarate|Daniel
+336939Y|12/27/2011|Handgun|Ceraso|Gregory
+337026Y|12/28/2011|Unarmed|Magiera|Stormy
+27843Z|2/2/2012|Handgun|Shipp|Joshua
+27878Z|2/2/2012|Unarmed|Bunthavuth|Te
+36192Z|2/13/2012|Handgun|Deborst|Paul
+45802Z|2/24/2012|Handgun|McDonnold|Samuel
+56177Z|3/7/2012|Vehicle|Payovich|Timothy
+62683Z|3/15/2012|Unarmed|Nelson|Saint
+125333Z|5/22/2012|Handgun|Banes|Matthew
+128833Z|5/26/2012|Vehicle|F|
+129379Z|5/26/2012|Vehicle|Todd|James
+130254Z|5/27/2012|Handgun|McGuire|John
+132104Z|5/29/2012|Vehicle|Spears|Dennis Jr. 
+132098Z|5/29/2012|Vehicle|Dayton|Scott
+135680Z|6/2/2012|Handgun|Limbaugh|Leland
+155523Z|6/24/2012|Handgun|Howard|Cortenay
+174404Z|7/15/2012|Handgun|Vanderslice|Christopher
+183313Z|7/24/2012|Unarmed|Rowden|Brian
+191609Z|8/3/2012|Handgun|Rhodes|Phillip
+194377Z|8/6/2012|Vehicle|Waskom|David
+267651Z|10/27/2012|Unarmed|Shipp|Joshua
+268942Z|10/28/2012|Handgun|Khan|Arif
+291975Z|11/25/2012|Unarmed|Ledezma|Bernadino
+302115Z|12/6/2012|Shotgun|Bass|Davey
+308643Z|12/14/2012|Handgun|Foster|Daniel
+912B|1/2/2014|Handgun|Ortiz|Manuel
+37894B|2/15/2014|Handgun|Burns|Joshua
+40931B|2/19/2014|Handgun|Casey|John
+79223B|4/4/2014|Knife|Moore|Jacqueline
+94757B|4/21/2014|Handgun|Hamilton|Robert
+125236B|5/24/2014|Handgun|Bryant|Derek
+143229‐2014|6/14/2014|Vehicle|Mondy|Michael
+143473‐2014|6/14/2014|Screwdriver|Rogers|John
+154184‐2014|6/26/2014|Handgun|Tena|Edward
+166059‐2014|7/10/2014|Handgun|Berry|Jeffrey
+192024‐2014|8/10/2014|Unarmed|Hudson|Antonio
+192550‐2014|8/11/2014|Knife|Gladden|Kevin
+200830‐2014|8/20/2014|Handgun|Jankowski|Jay
+201507‐2014|8/21/2014|Handgun|Martinez|Ruben Jr.
+204701‐2014|8/25/2014|Handgun|Moreno|Rogelio
+206124‐2014|8/27/2014|Handgun|Gamez|Jose
+216145‐2014|9/7/2014|Vehicle|DeWilde|Michael
+236112‐2014|10/1/2014|Airsoft Handgun|Walls|Ryan
+254101‐2014|10/22/2014|Unarmed|Johnson|Michael
+298185-2014|12/16/2014|Knife|Moody|Larry
+2315A|1/3/2013|Vehicle|Ned|Charles
+5567A|1/7/2013|Handgun|Palk|Devon
+32587A|2/8/2013|Shotgun|Womack|Darryl
+44523A|2/23/2013|Handgun|Patino|Michael
+56628A|3/10/2013|Hands|Staller|Clark
+60045A|3/14/2013|Handgun|Timms|Christopher
+60944A|3/15/2013|BB Gun|Tholl|Kyle
+84022A|4/6/2013|Vehicle|Ramirez|Ricardo
+92218A|4/15/2013|Handgun|Canales|Luis
+136044A|5/31/2013|Handgun|Gadomski|Brendan
+154621A|6/19/2013|Handgun|Freeman|Eric
+161783A|6/26/2013|Knife|Bowling|Joseph
+182199A|7/17/2013|Unarmed|Robinson|Jamal
+194631A|7/31/2013|Handgun|Bailey|Berkeley
+229702A|9/6/2013|Handgun|Merta|Matthew
+236584A|9/14/2013|Handgun|Barrett|Russell
+248051A|9/26/2013|Handgun|Everett|Alexander
+253345A|10/2/2013|Handgun|Cantu|Richard
+260599A|10/11/2013|Unarmed|Simonds|Brian
+263673A|10/14/2013|Knife|Spencer|Cardan
+280218A|11/1/2013|Taser|Ross|John
+311475A|12/9/2013|Unarmed|Wilburn|Amy
